@@ -1,0 +1,14 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "bank-parser-haskell:lib"
+
+    - path: "./app/Main.hs"
+      component: "bank-parser-haskell:exe:bank-parser-haskell-exe"
+
+    - path: "./app/Paths_bank-parser-haskell.hs"
+      component: "bank-parser-haskell:exe:bank-parser-haskell-exe"
+
+    - path: "./test"
+      component: "bank-parser-haskell:test:bank-parser-haskell-test"
+
