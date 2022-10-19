@@ -1,5 +1,7 @@
 # bank-parser-haskell
 
+Toy code to illustrate few basic principles of functional programming in Haskell
+
 ## How to build and run locally
 
 The project uses the [Haskell tool stack](https://docs.haskellstack.org/en/stable/README/).
