@@ -1,3 +1,5 @@
+[![CI](https://github.com/alessandrocandolini/bank-parser-haskell/actions/workflows/ci.yml/badge.svg)](https://github.com/alessandrocandolini/bank-parser-haskell/actions/workflows/ci.yml)
+
 # bank-parser-haskell
 
 Toy code to illustrate few basic principles of functional programming in Haskell
